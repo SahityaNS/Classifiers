@@ -37,6 +37,8 @@ It is a surpervised learning method, where classification is made when we alread
 * Margin
 
 ## Naive Bayes
+![Naive bayes](https://user-images.githubusercontent.com/58341480/93104434-7500c480-f6cb-11ea-82e9-d4f6bfc011f1.png)
+
   
   
 
